@@ -1,0 +1,1244 @@
+janmejaya_mishra:
+      sl_acc: 2
+      al_ck_contacts_events: 3
+      bl_ck_reminders_events: 11
+      al_imapauth: 42
+      al_mailgateway_settings: 3
+      sl_escrow_hsa2: 18
+      bl_webmail_daily: 25
+      bl_mailgateway_newmailaccounts: 16
+      bl_ck_keychain_events: 3
+      sl_mme_account: 4
+      al_escrow_keychain_syncs: 11
+      sl_escrow_cdp_state: 7
+      bl_mailgateway_aliasmailaccounts: 17
+      bl_smtp_senderid_daily: 5
+      bl_ck_contacts_events: 23
+      al_imapauth_history_1: 9
+      al_mailstore_daily: 18
+      al_mailgateway_receive: 18
+      sl_fmip_reregister_weekly: 1
+      bl_smtp_daily: 6
+      al_uploadimage_ws: 2
+      bl_ck_others_dly: 1
+      bl_ck_keychain_events_1: 1
+      bl_mailstore_userid_daily: 7
+      sl_icw: 31
+      al_ck_reminders_events: 2
+      al_icw: 47
+      sl_acc.ireporter_id: 2
+      bl_icw: 37
+      bl_mailstore_daily: 20
+      sl_icloud_account: 14
+      sl_iscream: 28
+      al_escrow_icdp_hsa2_events: 3
+      sl_iscream_dragon: 2
+      al_calendar: 27
+      sl_accounts: 14
+      sl_icw_mly: 4
+      bl_iscream_daily: 1
+      bl_ck_safari_bookmarks_events: 1
+      bl_webclients_feedbackws: 3
+      bl_icw_1: 4
+      bl_icw_0: 6
+
+dcool:
+      bl_account_delete_edw: 1
+      al_fmip_settings_events: 17
+      cl_icloud_active_usage_monthly: 6
+      sl_accounts.signup_country_code: 1
+      bl_fmip_lostmode: 42
+      sl_accounts.date: 1
+      sl_account_delete_edw: 6
+      cl_account_deletes_ever: 20
+      sl_monthly_active_usage: 1
+      sl_qs_current_user_quota: 4
+      al_fmip_play_sound: 9
+      sl_mme_account: 49
+      cl_icloud_active_usage_daily: 1
+      bl_fmip_reregister: 18
+      al_fmip_locate: 30
+      bl_fmip_reregister.ireporter_id: 2
+      sl_accounts: 11
+      sl_mme_device_burn: 4
+      bl_fmip_locate: 2
+      al_fmip_settings_events.device_udid: 2
+      al_fmip_settings_events.ireporter_id: 2
+      sl_qs_active_storage_subscribers: 2
+      bl_account_update_events: 26
+      bl_fmip_reregister.device_udid: 2
+
+theodore_hong:
+      cl_icloud_active_usage_monthly: 77
+      al_mmcs_put_complete: 5
+      al_ck_backup_snapshot_records: 8
+      bl_ck_restore_events: 50
+      bl_ck_backup_events: 15
+
+kborra:
+
+pragyap:
+      cl_asm_person_tmp: 9
+      cl_abm_org: 4
+      sl_axm_person: 41
+      cl_icloud_active_usage_monthly: 8
+      bl_axm_order_snapshot: 1
+      sl_dep_pcsreport: 179
+      sl_mme_account: 11
+      bl_dep_device_enrollment: 5
+      bl_qmagic: 2
+      bl_axm_other_actionswhere: 8
+      cl_qmagic: 4
+      bl_axm_other_actions: 78
+      bl_axm_org_domain: 14
+      cl_axm_person: 24
+      sl_asm_org: 172
+      bl_axm_order_detail: 10
+      bl_abm_org: 2
+      sl_axm_person_tmp: 29
+      cl_asm_org: 11
+      sl_axm_icloud_everlogged_maid: 8
+      cl_axm_idp: 1
+      cl_axm_org_domain: 36
+      bl_dep_profile_service: 7
+      sl_abm_org: 167
+      sl_axm_org_tmp: 22
+      bl_dep_feed_processor: 11
+
+barry_shao:
+      bl_mmcs_get_completewhere: 3
+
+krishnateja_are:
+      bl_fmf_events: 1
+      bl_mmcs_authorize_put: 2
+      bl_ck_drive_action: 1
+      al_ck_topn_hrly_temp: 2
+      cl_icloud_active_usage_monthly: 19
+      bl_qs_notfn_events: 1
+      al_ck_topn_hrly: 1
+      sl_mme_datastore: 2
+      cl_icloud_active_usage_monthly_new_fm_rereg: 19
+      cl_icloud_active_usage_monthly_new_fm: 19
+      bl_ck_gatekeeper_daily_raw: 3
+      al_icw: 4
+      sl_mme_assignment: 2
+      bl_mmcs_put_complete: 18
+      al_adoption_forecast_mau: 2
+      bl_mmcs_authorize_getforfiles: 4
+      al_mmcs_put_complete: 4
+      bl_icloud_livability: 68
+      bl_qs_success_events: 1
+      sl_qs_storage_icloud_transfer_dump: 13
+      sl_qs_active_storage_subscribers: 5
+      bl_imessage_usage: 4
+      al_drive_records_dly: 1
+      sl_active_paid_offer_plans_internal: 1
+
+javed_lalani:
+      bl_axm_cloud_md: 2
+
+surjan_s_rawat:
+      sl_fmip_reregister_monthly: 9
+      al_fmip_settings_events: 8
+      bl_fmip_unlock_tool: 1
+      cl_icloud_active_usage_monthly: 5
+      cl_ids_businesschat_registration: 1
+      sl_dep_pcsreport: 2
+      al_doodlebug_tool: 13
+      bl_user_delete: 1
+      bl_gdpr_access_request_events: 3
+      bl_icloud_livabilitywhere: 1
+      al_fmip_locate: 14
+      al_fmip_play_soundwhere: 5
+      al_doodlebug_toolwhere: 17
+      bl_mmcs_accounts_gcbd: 1
+      bl_fmip_locate: 6
+      al_businesschat_usage: 1
+      bl_icloud_livability: 114
+      bl_doodlebug_tool: 2
+      cl_doodlebug_toolwhere: 10
+      bl_fmip_play_sound: 1
+      bl_mme_account: 1
+      bl_icloud_livabilitygroup: 3
+      bl_metrics_edge_cnx_time: 3
+      bl_fmf_events: 5
+      cl_doodlebug_tool: 5
+      bl_ck_gatekeeper_daily_rawwhere: 3
+      bl_user_move: 7
+      sl_mme_datastore: 23
+      sl_asm_org: 1
+      bl_ck_backup_apps: 1
+      al_fmip_play_sound: 8
+      bl_ck_backup_events: 3
+      al_icw: 2
+      bl_icloud_livabity: 2
+      sl_mme_assignment: 21
+      bl_fmip_reregister: 1
+      bl_mmcs_put_complete: 1
+      al_fmip_locatewhere: 13
+      al_user_move: 1
+      al_mmcs_put_complete: 34
+      al_fmip_al_service: 1
+      bl_qs_success_events: 1
+      sl_abm_org: 1
+      al_fmip_settings_eventswhere: 4
+      sl_qs_storage_icloud_transfer_dump: 1
+      bl_icloud_liva: 1
+
+himanshu_shahi:
+      al_mailgateway_receive: 1
+      al_mailgateway_attachment: 2
+      al_sent_mail_domain: 2
+      al_sentemail: 4
+      bl_smtp_daily: 12
+      al_mailgateway_migrated_emails: 9
+
+eugeneh:
+
+thuypark:
+
+bin_liu5:
+      bl_mmcs_put_complete: 8
+      bl_mmcs_get_completewhere: 1
+      bl_mmcs_get_complete: 7
+
+s_narayanarao:
+      bl_facetime_multiway_sessionswhere: 3
+      cl_ids_businesschat_registration: 26
+      bl_facetime_multiway_sessions: 2
+      al_ids_user_device_registration: 3
+      cl_ids_user_device_registrationwhere: 2
+      cl_apns_device_presence: 2
+      al_apns_device_presence: 1
+      al_imessage_user_device_snapshot: 13
+      al_imessage_usage: 1
+      cl_ids_user_device_registration: 11
+      al_facetime_usage: 3
+      al_businesschat_usage: 37
+      al_ids_dsid_userhandle_map: 8
+      bl_imessage_usage: 90
+      al_imessage_usagewhere: 6
+
+lponnapalli:
+
+a_prusty:
+
+auttamadoss:
+      bl_icpl_ctm_modify: 20
+
+micyoung:
+      sl_asm_org: 35
+      sl_dep_pcsreport: 70
+      sl_abm_org: 35
+
+h_sukumarannair:
+      al_mmcs_move_complete: 1115
+      bl_mmcs_authorize_put: 2
+      bl_mmcs_cost_metrics_litmus_exp: 2
+      al_mmcs_authorize_getforfiles: 2
+      bl_mmcs_move_complete: 2
+      al_mmcs_delete_complete: 14
+      bl_mmcs_put_completewhere: 19
+      sl_mme_account: 101
+      bl_mmcs_put_complete: 15
+      al_mmcs_put_complete: 29
+      bl_mmcs_accounts_gcbd: 1113
+      al_mmcs_authorize_put: 2
+      bl_mmcs_get_completewhere: 5
+      al_mmcs_get_complete: 15
+      bl_mmcs_get_complete: 15
+
+jgiang:
+      bl_psm_course_feedurl_parsing: 34
+      bl_psm_join_by_episode: 11
+      bl_psm_join_by_episode_title: 169
+      bl_public_site_monitor: 51
+      bl_psm_episode_join_tmp_step7: 91
+      bl_psm_mapped_final: 11
+      bl_psm_adamid_join: 23
+      bl_psm_join_by_episode_titlewhere: 8
+      bl_psm_feedurl_join: 26
+
+tpraija:
+      bl_icw: 6
+      al_ck_notes_events: 1
+      bl_ck_notes_events: 1
+
+sakhtar2:
+      al_ck_bandwidth_usage_dly: 1
+      bl_gamecenter_settings_eventswhere: 9
+      cl_icloud_active_usage_monthly: 11
+      bl_fmip_lostmode: 8
+      bl_ck_db_operation_hrly: 1
+      cl_icloud_active_usage_monthly_new_fm: 6
+      bl_ck_coderouter_raw: 2
+      bl_ck_drive_2020_02_17: 1
+      al_ck_topn_dly--show: 1
+      bl_fmip_settings_events: 10
+      bl_fmip_locate: 8
+      bl_asm_org: 2
+      bl_fmip_play_sound: 8
+      bl_ck_backup_eventsthis: 2
+      cl_icloud_active_usage_monthlywhere: 1
+      bl_ck_drive_action: 18
+      bl_fmip_wipe: 8
+      bl_axm_order_detail: 2
+      bl_os_adoption: 1
+      bl_ck_3rdparty_dau: 1
+      al_kvs: 19
+      bl_fmip_reregister: 10
+      bl_cassandramgr_dly: 16
+      bl_axm_managedid_service: 1
+      al_ck_topn_dly: 3
+      cl_cktelemetry_dly: 11
+      bl_ck_backup_snapshot_recordsthis: 1
+      bl_gamecenter_settings_events: 34
+      al_ck_bandwidth_usage_dlygroup: 1
+
+kuang1:
+      sl_mme_account: 4
+
+pratikkumar_patel:
+      bl_mmcs_get_complete: 4
+
+xyuan999:
+      cl_axm_org_domain: 38
+      sl_asm_org: 32
+      bl_axm_other_actions: 31
+      sl_abm_org: 32
+      bl_axm_org_domain: 17
+
+gillian_belton:
+
+shan_lu2:
+      cl_icloud_active_usage_monthly: 29
+      bl_qs_notfn_events: 213
+      sl_accounts: 22
+      bl_qs_success_events: 43
+      sl_qs_current_user_quota: 84
+      sl_device_registration: 68
+      bl_device_registration: 2
+
+samrat_gupta:
+      bl_ck_drive_action: 1
+      bl_cassandramgr_dly: 5
+      bl_fmip_settings_events: 1
+      bl_fmip_locate: 1
+      bl_ck_restore_events: 4
+      bl_ck_user_delete_backup: 9
+      bl_fmip_locatewhere: 6
+      al_drive_records_dly: 2
+
+kzakee:
+      al_adoption_forecast_mau: 51
+      bl_icloud_livabilitywhere: 94
+      bl_device_registrationwhere: 8
+      bl_ck_reminders_events: 2
+      bl_icloud_livability: 185
+      bl_device_registration: 3
+
+abhijat_gupta:
+      bl_fmf_events_tmp: 26
+      al_fmip_settings_events: 25
+      bl_fmip_unlock_tool: 2
+      bl_fmip_al_service: 1
+      al_fmip_activation_lockwhere: 101
+      cl_user_move: 1
+      bl_fmip_activation_lockwhere: 85
+      al_fmip_wipe: 10
+      cl_fmip_accessories_only_weekly: 77
+      bl_fmip_accessories_lookup_mtdt: 13
+      bl_fmf_events_tmp	where: 12
+      al_doodlebug_tool: 3
+      cl_user_move_partition_service: 1
+      al_fmip_lostmode: 18
+      al_fmip_locate: 20
+      bl_fmip_settings_events: 2
+      bl_fmip_activation_lock: 80
+      al_user_delete: 2
+      bl_fmip_locate: 48
+      bl_doodlebug_tool: 4
+      bl_icloud_livability: 2
+      al_fmf_family_user_status: 4
+      sl_fmf_family_user_status: 2
+      bl_fmip_play_sound: 16
+      bl_mme_account: 9
+      cl_doodlebug_tool: 1
+      bl_fmf_events: 85
+      al_fmip_reregister: 30
+      bl_fmfd_events_tmp	where: 6
+      cl_fmip_accessories: 24
+      al_fmf_events: 33
+      bl_user_move: 1
+      al_fmip_play_sound: 87
+      al_fmf_eventswhere: 1
+      bl_os_adoption: 6
+      bl_fmfd_events: 45
+      cl_fmip_feature_weekly	where: 1
+      al_user_move: 1
+      al_fmip_send_last_location: 5
+      cl_13apr: 3
+      al_fmip_al_service: 1
+      bl_support_app: 5
+      bl_fmfd_events_tmp		where: 9
+      al_fmip_settings_eventswhere: 5
+
+rshah9:
+      bl_ck_backup_eventsthis: 1
+      al_mbs_events: 1
+      bl_ck_others_dly: 3
+      bl_ck_0_prod_3rdparty_mau: 3
+      bl_ck_backup_apps: 2
+      al_ck_db_operation_dly: 1
+      al_mmcs_get_complete_success_vw: 5
+      bl_ck_db_operation_dly: 1
+      sl_mme_account: 2
+      bl_account_other_events: 1
+      bl_mmcs_put_complete: 3
+      sl_icloud_account: 1
+      al_ck_notes_share_action: 1
+      sl_qs_active_homekit_users: 1
+      al_ck_icpl_settings_events_mnthly: 1
+      al_ck_icpl_upload: 1
+      al_ck_db_storage_dly: 1
+      bl_mme_account: 2
+      bl_ck_restore_events: 2
+
+jacob.apple:
+      sl_asm_org: 1
+      sl_dep_pcsreport: 2
+      sl_abm_org: 1
+
+allen_oliver:
+      bl_gamecenter_all_othr_events: 166
+      bl_gamecenter_invite_events: 83
+      bl_gamecenter_challenge_events: 249
+      bl_gamecenter_achievements: 83
+      bl_gamecenter_turnbased_events: 83
+      bl_gamecenter_matchmaking: 415
+      bl_gamecenter_session_events: 326
+
+vbindal:
+      bl_iwork_web_export_doucument: 1
+      bl_ck_account_quota_iwork: 1
+      al_drive_active_sl_dly: 2
+      sl_mme_account: 17
+      bl_ubq_document: 96
+      al_drive_active_sl_dl: 2
+      al_drive_active_records_dly: 2
+      sl_qs_active_storage_subscribers: 8
+      sl_drive_active_records: 9
+      bl_ck_drive_action: 55
+      bl_drive_migrator: 9
+      sl_drive_active_records_aid: 29
+      sl_qs_active_storage_subscriber: 2
+      bl_drive_active_records_dly: 4
+      sl_drive_active_records_temp: 10
+      bl_ckgroomer_all_dly: 1
+      bl_drive_share_sl: 2
+      al_drive_records_dlywhere: 7
+      sl_qs_current_user_quota: 3
+      bl_ubq_edw: 17
+      sl_drive_active_records_aid3: 2
+      bl_gilligan_icloud: 4
+      bl_ck_drive_iwork_collaborate: 1
+      sl_drive_active_recordswhere: 4
+      al_drive_migrator: 4
+      al_drive_records_dly: 43
+
+asindhwani:
+      bl_ps_album_internal_events: 2
+      bl_ps_album_events: 6
+
+bpattnaik:
+      sl_fmip_reregister_monthly: 5
+      sl_mme_account_rem_classic: 1
+      cl_icloud_active_usage_monthly: 230
+      bl_device_registrationwhere: 10
+      sl_mme_account_free_fmip: 1
+      bl_qs_notfn_events: 1
+      sl_qs_ever_storagebuy_push_notifications_v2: 10
+      cl_icloud_active_usage_monthly_vw: 6
+      al_qs_litmus_kpi: 7
+      bl_mme_assignment: 5
+      al_qs_storage_subscriber_movement_daily: 1
+      cl_icloud_active_usage_monthly_new_fm: 42
+      sl_monthly_active_users: 1
+      cl_icloud_analytics_optin_ever: 4
+      bl_device_registration: 6
+      sl_monthly_active_devices: 1
+      sl_mme_account: 4
+      al_adoption_forecast_mauwhere: 3
+      cl_ids_user_device_registration: 20
+      bl_30d_rolling_active_usage: 1
+      cl_icloud_active_usage_rolling30d: 7
+      sl_qs_current_user_quota_cube: 10
+      cl_icloud_active_usage_monthly_new_fm_30d: 16
+      al_qs_storage_subscriber_movement_monthly: 75
+      sl_qs_active_storage_subscribers: 202
+      cl_icloud_active_usage_monthlywhere: 11
+      sl_qs_current_app_size: 28
+      bl_qs_its_billing_icld: 24
+      sl_qs_current_user_quota: 53
+      cl_icloud_active_usage_ever: 1
+      al_qs_error_monthly: 7
+      sl_qs_ever_storagebuy_push_notifications_v2where: 6
+      sl_familysharing_accounts: 6
+      cl_qs_ever_storage_subscriptions: 66
+      sl_active: 3
+      al_adoption_forecast_mau: 8
+      sl_icloud_account: 2
+      sl_qs_active_homekit_users: 4
+      sl_accounts: 59
+      sl_mme_device_burn: 16
+      bl_mme_device_burn: 1
+      bl_qs_success_events: 3
+      bl_mme_accountwhere: 5
+      sl_30d_rolling_active_users: 1
+      sl_30d_rolling_active_devices: 1
+      sl_qs_ever_storage_subscribers: 15
+      sl_qs_current_user_quotawhere: 28
+      sl_device_registration: 16
+
+zhiqi_miao:
+      al_qs_storage_subscriber_movement_monthly: 2
+
+aklopocki:
+      cl_icloud_active_usage_monthly: 12
+      bl_qs_notfn_events: 18
+      sl_accounts: 66
+      bl_qs_success_events: 15
+      bl_qs_successn_events: 2
+
+huan_he9:
+      al_ids_user_device_registration: 1
+      bl_device_registration: 4
+
+n_radhakrishnansr:
+      bl_ck_drive_action: 1
+
+npalekar:
+      al_ck_topn_dly: 18
+      al_ck_topn_dly--show: 1
+      al_ck_topn_dly--: 1
+
+cinto_sunny:
+      sl_mme_account: 5
+      sl_fmip_reregister_monthly: 8
+      cl_icloud_active_usage_monthly: 35
+      bl_ck_messages_in_cloud_daily_raw: 5
+      al_ck_topn_dly: 4
+      cl_ids_user_device_registration: 2
+      cl_icloud_active_usage_monthly_new_fm: 3
+      bl_ck_coderouter_raw: 23
+      bl_os_adoption: 1
+      bl_os_adoptionwhere: 3
+
+girishkumar_vaddi:
+      bl_country_region: 1
+
+amohapatra:
+      bl_axm_order_snapshot: 2
+      bl_axm_order_detail: 2
+
+sraijagdish:
+      cl_icloud_active_usage_monthly: 33
+      bl_qs_notfn_events: 53
+      sl_accounts: 31
+      bl_qs_success_events: 72
+      sl_qs_current_user_quota: 60
+
+niradranjan_parhi:
+      bl_fmf_events: 151
+      al_fmip_settings_events: 6
+      al_fmip_reregister: 5
+      cl_icloud_active_usage_monthly: 2
+      cl_fmip_accessories: 1
+      al_fmf_events: 24
+      al_fmip_activation_lock: 2
+      al_fmip_play_sound: 53
+      al_fmip_wipe: 26
+      cl_fmip_accessories_only_weekly: 1
+      bl_fmip_accessories_lookup_mtdt: 4
+      al_fmfd_events: 34
+      bl_fmfd_events: 115
+      al_fmip_lostmode: 26
+      al_fmip_locate: 29
+      al_fmip_weekly_active_user_device_details: 2
+      bl_mme_account: 2
+
+swami_jayaram:
+      sl_mme_account: 4
+      bl_fmip_locate: 2
+
+ngopalabhatla:
+
+nranjankhuntia:
+      sl_mme_assignment: 3
+      al_adoption_forecast_mau: 5
+      bl_icloud_livabilitywhere: 9
+      sl_accounts: 1
+      sl_mme_datastore: 3
+      bl_icloud_livability: 31
+      al_drive_records_dly: 2
+      al_mailgateway_migrated_emails: 1
+      bl_psm_feedurl_join: 3
+
+anonymous:
+
+gdeyyam:
+      bl_ck_backup_apps: 26
+      bl_ck_coderouter_raw: 3
+      bl_ck_backup_events: 171
+      bl_ck_restore_events: 19
+      bl_ck_backup_smpl: 21
+      bl_ck_backup_event: 1
+
+chaitanya_jeerage:
+      sl_mme_account: 6
+      cl_icloud_active_usage_daily: 2
+      sl_mme_device_burn: 6
+      sl_qs_active_storage_subscribers: 2
+
+madash1206:
+      sl_fmip_reregister_monthly: 1
+      cl_icloud_active_usage_monthly: 15
+      bl_fmip_lostmode: 6
+      bl_qs_notfn_events: 21
+      sl_qs_ever_storagebuy_push_notifications_v2: 4
+      al_ids_user_device_registration: 2
+      al_qs_storage_subscriber_movement_daily: 3
+      cl_icloud_active_usage_monthly_new_fm: 30
+      bl_accountservice_acd_multi: 6
+      sl_family: 6
+      sl_mme_account: 3
+      al_adoption_forecast_mauwhere: 2
+      cl_ids_user_device_registration: 20
+      bl_fmip_settings_events: 6
+      bl_fmip_locate: 6
+      cl_icloud_active_usage_monthly_new_fm_30d: 22
+      al_qs_storage_subscriber_movement_monthly: 6
+      sl_qs_active_storage_subscribers: 6
+      bl_fmip_play_sound: 6
+      bl_fmip_siri_actions: 6
+      cl_icloud_active_usage_monthlywhere: 2
+      bl_fmip_wipe: 6
+      bl_qs_its_billing_icld: 6
+      bl_fmip_send_last_location: 6
+      bl_qs_notfn_eventswhere: 27
+      sl_familysharing_accounts: 54
+      al_kvs: 7
+      bl_fmip_reregister: 6
+      al_ck_topn_dly: 7
+      bl_fmip_system_actions: 6
+      sl_accounts: 2
+      bl_ids_dsid_device_registration: 1
+      bl_coreml_model_performance: 1
+      sl_device_registration: 9
+
+himanshu_s_sharma:
+      bl_cktelemetry_dly: 1
+      al_qs_storage_subscriber_movement_daily: 2
+      sl_qs_active_storage_subscribers: 2
+
+sk_64:
+
+s_shanbhagirvattu:
+      bl_webclients_feedbackws: 1
+
+sdanielraju:
+      bl_mmcs_authorize_put: 3
+      al_mmcs_move_complete: 2
+      sl_blobstorage_daily: 5
+      bl_gilligan_box: 1
+      bl_mmcs_delete_complete: 5
+      al_mmcs_get_complete_ret_v1: 2
+      al_mmcs_authorize_getforfiles: 13
+      al_mmcs_getorph_expanded_data: 6
+      bl_mmcs_move_complete: 4
+      bl_drive_share_sl: 1
+      al_mmcs_delete_complete: 2
+      al_mmcs_getorph_expanded_datawhere: 4
+      bl_gilligan_icloud: 1
+      al_mmcs_put_complete_ret_v1: 2
+      sl_mme_account: 1
+      bl_mmcs_put_complete: 26
+      bl_mmcs_authorize_getforfiles: 3
+      bl_gilligan_icloud_sl: 1
+      al_mmcs_put_complete: 85
+      bl_mmcs_verify_complete: 1
+      al_mmcs_authorize_put: 13
+      bl_mmcs_get_complete: 10
+      al_mmcs_get_complete: 43
+
+henry_hughes:
+      bl_ck_coderouter_icpl_reason: 9
+      al_ck_icpl_delete: 1
+      bl_cmm: 4
+      bl_ck_coderouter_raw: 2
+      bl_ck_icpl_settings_events: 3
+      bl_ck_gatekeeper_daily_raw: 12
+
+vsubramanian22:
+      bl_gamecenter_active_player_id_sl: 2
+      bl_cktelemetry_dly: 6
+      cl_gamecenter_player_id: 19
+      cl_gamecenter_active_player_id: 1
+
+robert_loh:
+      bl_ck_messages_in_cloud_daily_raw: 55
+
+prasenjit_das:
+      bl_ck_coderouter_setting_info: 2
+      cl_icloud_active_usage_monthly: 7
+      bl_cmm: 1
+      sl_icpl_settings_events_zone_create: 7
+      sl_qs_active_storage_subscriberswhere: 3
+      sl_icpl_settings_events: 7
+      bl_ckgroomer_all_dly: 11
+      sl_qs_current_user_quota: 19
+      sl_qs_active_storage_subscribers: 3
+      bl_ck_coderouter_raw: 7
+      al_ckg_icpl_active: 1
+      sl_qs_current_user_quotawhere: 3
+
+saurabh_zee:
+      sl_os_adoption: 3
+      cl_icloud_active_usage_monthly: 53
+      bl_applesignin_app_auth: 2
+      bl_mme_assignment: 2
+      cl_icloud_active_usage_monthly_new_fm: 76
+      bl_account_terms_events: 1
+      sl_gcbd_vw: 13
+      bl_account_deactivationwhere: 5
+      cl_icloud_analytics_optin_ever: 2
+      bl_device_registration: 1
+      sl_mme_account: 2
+      cl_icloud_active_usage_rolling30dwhere: 2
+      al_fmip_locate: 1
+      bl_fmip_settings_events: 3
+      cl_icloud_active_usage_rolling30d: 3
+      bl_fmip_locate: 1
+      cl_icloud_active_usage_monthly_new_fm_30d: 79
+      bl_icloud_active_usage_daily: 1
+      bl_fmf_events: 1
+      bl_applesignin_team: 1
+      sl_applesignin_team: 5
+      sl_mme_datastore: 9
+      cl_icloud_active_usage_monthly_new_fm_rereg: 14
+      bl_device_ecosystem: 2
+      bl_os_adoption: 95
+      bl_fmfd_events: 35
+      sl_mme_assignment: 12
+      cl_icloud_active_usage_daily: 64
+      bl_account_other_events: 4
+      sl_icloud_account: 3
+      bl_account_deactivation: 20
+      sl_accounts: 39
+      bl_account_update_events: 18
+      bl_account_deactivations: 35
+      sl_device_registration: 24
+      bl_account_deactivationswhere: 6
+
+alevanon:
+      bl_ck_reminders_events: 7
+
+mpanigrahy3:
+      bl_icloud_livability: 3
+
+bibhudutta_nayak:
+      bl_ck_backup_eventsthis: 1
+      bl_mmcs_put_complete: 1
+      cl_account_groomer_status: 2
+      bl_intent_to_backupthis: 1
+      bl_ck_restore_events: 6
+      bl_ck_restore_eventsthis: 1
+
+rohit_kandhari:
+      bl_aragorn: 29
+
+nergis_zaim:
+      cl_icloud_active_usage_monthlywhere: 20
+      al_adoption_forecast_mau: 6
+      cl_icloud_active_usage_monthly: 10
+      al_adoption_forecast_mauwhere: 54
+      bl_qs_notfn_eventswhere: 12
+      al_adoption_forecast_maugroup: 8
+
+apathak2:
+
+sahoo_santosh:
+      al_ck_icpl_upld_wkly: 1
+      cl_icloud_active_usage_monthly: 1
+      bl_ckg_rest_wkly_icpl_records: 19
+      bl_ckg_rest_dly: 16
+      al_ckg_icpl_active_tmp: 2
+      bl_ck_coderouter_raw: 27
+      bl_ckg_icpl_active: 1
+      sl_mme_account: 1
+      al_ck_icpl_download_resources: 3
+      al_ck_icpl_settings_events: 1
+      bl_cmm: 18
+      al_ck_icpl_upload: 10
+      al_ck_icpl_upload_dt_wkly: 13
+      sl_qs_active_storage_subscribers: 35
+      bl_ck_icpl_settings_events: 39
+      bl_psm_feedurl_join: 3
+      sl_icpl_settings_events_with_missing_dates: 5
+      bl_ck_coderouter_setting_info: 9
+      bl_mps_download_photo: 2
+      sl_qs_active_storage_subscriberswhere: 3
+      bl_ckgroomer_all_dly: 58
+      sl_qs_current_user_quota: 82
+      bl_mps_add_photo: 1
+      sl_icloud_active_usage_daily: 1
+      bl_ck_coderouter_icpl_health_metrics: 15
+      sl_icloud_account: 1
+      sl_accounts: 10
+      sl_icpl_settings_events_zone_create: 33
+      sl_icpl_settings_events: 84
+      bl_country_region: 1
+      al_ckg_icpl_active: 20
+      sl_qs_current_user_quotawhere: 4
+
+pkomanpally:
+      sl_os_adoption: 4
+      sl_applesignin_app: 2
+      bl_fmip_lostmode: 3
+      bl_fmip_lostmode.os_version: 4
+      bl_fmip_al_service: 1
+      bl_fmip_play_sound.event_stage: 4
+      cl_fmip_reregister_recency: 18
+      bl_fmip_play_sound.platform: 4
+      bl_familysharing_account_events: 1
+      cl_icloud_active_usage_monthly_new_fm: 81
+      sl_gcbd_vw: 9
+      sl_mme_account: 70
+      bl_fmip_locate: 27
+      bl_fmip_play_sound.device_code: 4
+      bl_fmip_settings_events.ireporter_id: 3
+      cl_icloud_active_usage_monthly_new_fm_30d: 17
+      bl_mme_account: 4
+      bl_fmip_settings_events.device_udid: 1
+      bl_fmip_locate.os_version: 4
+      cl_fmip_accessories: 3
+      cl_icloud_active_usage_monthly_new_fm_rereg: 61
+      al_fmip_icloud_nonkvs_r90d_monthly_excl_queue: 1
+      bl_fmip_reregister.platform: 1
+      bl_fmip_locate.device_code: 4
+      bl_fmip_play_sound.device_udid		: 1
+      al_adoption_forecast_mau: 8
+      bl_account_deactivation: 7
+      bl_fmip_reregister.ireporter_id: 1
+      al_fmip_adoption_vw: 1
+      bl_fmi_reregister: 1
+      sl_applesignin_person: 2
+      bl_fmip_settings_events/*select: 1
+      sl_mme_account_rem_classic: 1
+      bl_fmip_unlock_tool: 2
+      cl_icloud_active_usage_monthly: 257
+      bl_fmip_wipe.os_version: 4
+      sl_applesignin_person							: 1
+      bl_fmip_settings_events.os_version: 3
+      cl_icloud_active_usage_rolling30d_new_fm_rereg: 7
+      bl_fmip_locate.ireporter_id: 4
+      al_fmip_locate: 17
+      al_adoption_forecast_mauwhere: 13
+      cl_icloud_active_usage_rolling30d: 3
+      bl_fmip_activation_lock: 4
+      bl_fmip_lostmode.platform: 4
+      bl_fmip_settings_events.device_code: 3
+      bl_fmf_events: 5
+      sl_fmip_reregister_weekly: 6
+      cl_fmip_reregister_recency/*with: 1
+      cl_icloud_active_usage_monthly_new_fm_rereg_2: 1
+      bl_ps_asset_events: 1
+      bl_fmip_lostmode.event_source: 4
+      al_fmf_events: 2
+      sl_applesignin_app	: 4
+      al_fmip_active_user_device_weekly: 1
+      bl_fmip_wipe.ireporter_id: 4
+      bl_os_adoption: 13
+      bl_fmfd_events: 7
+      bl_fmip_locate.event_stage: 6
+      cl_icloud_active_usage_daily: 3
+      cl_icloud_active_usage_monthlygroup: 1
+      sl_mme_device_burn: 1
+      bl_fmip_lostmode.event_stage: 5
+      bl_account_update_events: 7
+      cl_icloud_active_usage_monthly_new_fm_rereggroup: 3
+      bl_fmip_settings_events.platform: 3
+      sl_device_registration: 5
+      bl_fmip_lostmode.date: 4
+      bl_fmip_locate.date: 4
+      al_fmip_settings_events: 4
+      bl_fmip_play_sound.ireporter_id: 4
+      sl_mme_account_free_fmip: 1
+      cl_icloud_active_usage_monthly_vw: 1
+      bl_fmip_wipe.platform: 4
+      bl_fmip_locate.platform: 4
+      bl_fmip_play_sound.os_version: 4
+      sl_applesignin_person	: 4
+      bl_fmip_settings_events: 43
+      bl_fmip_reregister.date: 1
+      bl_fmip_lostmode.ireporter_id: 4
+      bl_fmip_play_sound: 4
+      bl_fmip_settings_events.date: 3
+      cl_icloud_active_usage_monthlywhere: 16
+      al_fmip_reregister: 11
+      al_fmip_adoption_excl_queue: 1
+      cl_icloud_active_usage_rolling30d_new_fm_rereggroup: 1
+      bl_fmip_wipe.event_stage: 4
+      sl_familysharing_accounts: 6
+      bl_fmip_wipe.event_source: 4
+      bl_monthly_active_usage: 8
+      sl_icloud_account: 1
+      al_calendar: 5
+      sl_accounts: 38
+      bl_fmip_reregister.device_code: 1
+      bl_fmip_settings_events.event_type: 18
+      bl_fmip_play_sound.date: 4
+      bl_fmip_reregister.device_udid: 1
+      bl_fmip_lostmode.device_code: 4
+      bl_fmip_reregister.os_version: 1
+      sl_fmip_reregister_monthly: 130
+      bl_fmip_play_sound.event_source: 4
+      bl_account_terms_events: 1
+      sl_applesignin_app							: 1
+      bl_fmip_locate.device_udid: 1
+      bl_fmip_locate.send_last_location_flag: 1
+      cl_fmip_unlock_tool: 1
+      bl_ps_album_events: 1
+      sl_qs_active_storage_subscribers: 2
+      bl_fmip_lostmode.device_udid: 1
+      al_fmip_icloud_nonkvs_r90d_monthly: 1
+      al_fmip_active_user_device_monthly: 5
+      bl_fmip_wipe: 3
+      cl_icloud_active_usage_monthly_new_fmgroup: 3
+      al_fmip_play_sound: 4
+      bl_fmip_locate.event_source: 4
+      bl_fmip_reregister: 13
+      bl_fmip_wipe.device_udid: 1
+      bl_fmip_wipe.device_code: 4
+      bl_fmip_wipe.date: 4
+
+yitong_zhao:
+      sl_mme_assignment: 4
+      sl_qs_current_user_quotalimit: 1
+      sl_accounts: 1
+      sl_qs_current_user_quota: 3
+      bl_account_terms_events: 1
+      bl_account_update_events: 4
+      sl_qs_current_user_quotawhere: 10
+      bl_device_registration: 3
+      sl_device_registration: 3
+
+arief_mohammed:
+      bl_ck_drive_action: 76
+      bl_fmip_wipe: 3
+      cl_icloud_active_usage_monthly: 9
+      bl_fmip_lostmode: 3
+      bl_ck_data_repair_dly: 3
+      bl_data: 2
+      bl_ck_backup_apps: 2
+      cl_icloud_active_usage_monthly_new_fm: 4
+      bl_ck_backup_events: 34
+      bl_repair_backup_user_level: 10
+      bl_fmip_reregister: 3
+      al_ck_backup_apps: 3
+      al_ck_topn_dly: 7
+      bl_fmip_settings_events: 3
+      cl_cktelemetry_dly: 18
+      bl_fmip_locate: 3
+      bl_fmip_play_sound: 3
+      cl_repair_backup_user_level: 15
+      bl_ck_user_delete_backup: 7
+
+brian_wipf:
+      bl_ck_drive_action: 12
+      cl_icloud_active_usage_monthlywhere: 12
+      bl_account_update_eventswhere: 68
+      cl_icloud_active_usage_monthly: 5
+      bl_device_registrationwhere: 1
+      sl_mme_accountlimit: 3
+      bl_ubq_document.ireporter_id: 15
+      sl_device_registrationwhere: 1
+      bl_device_registration: 1
+      sl_mme_assignment: 5
+      bl_ubq_document.date: 10
+      cl_icloud_active_usage_daily: 6
+      sl_mme_account: 116
+      bl_ubq_document: 331
+      sl_accounts: 7
+      bl_account_update_eventslimit: 1
+      sl_mme_accountwhere: 9
+      bl_ubq_documentwhere: 1
+      bl_account_update_events: 166
+      sl_device_registration: 11
+      bl_ubq_document.device_code: 5
+
+frajasavi:
+      sl_qs_current_app_size: 5
+      cl_icloud_active_usage_monthly: 2
+      bl_qs_notfn_events: 39
+      sl_qs_ever_storagebuy_push_notifications_v2: 1
+      bl_qs_its_billing_icld: 1
+      bl_qs_its_storage_upgrade: 8
+      al_qs_storage_subscriber_movement_daily: 71
+      sl_qs_current_user_quota: 35
+      sl_active: 74
+      cl_qs_ever_storage_subscriptions: 66
+      sl_mme_account: 2
+      sl_qs_active_homekit_users: 128
+      al_ck_topn_dly: 24
+      sl_accounts: 3
+      bl_qs_success_events: 25
+      al_qs_storage_subscriber_movement_monthly: 5
+      sl_qs_active_storage_subscribers: 298
+      sl_qs_storage_icloud_transfer_dump: 163
+      sl_qs_ever_storage_subscribers: 1
+
+t_sundriyal:
+      bl_mme_account: 1
+
+ziyi_li2:
+      bl_qs_notfn_events: 27
+      bl_qs_success_events: 24
+
+mramadan:
+      cl_qs_ever_storage_subscriptions: 292
+      al_qs_storage_subscriber_movement_monthly--: 1
+      bl_qs_notfn_events: 808
+      bl_qs_success_events: 257
+      al_qs_storage_subscriber_movement_monthly: 73
+      sl_qs_current_user_quota: 40
+      sl_qs_active_storage_subscribers: 17
+      cl_qs_morocco_events: 407
+
+ruogu_du:
+      cl_account_groomer_status: 24
+      bl_account_groomer_status: 16
+      al_account_groomer_status: 9
+      al_mmcs_delete_complete: 3
+      bl_ck_db_operation_dly: 4
+
+nathan_l_williams:
+      al_user_move: 1
+      bl_user_movewhere: 25
+      bl_user_move: 4
+
+s_chandiniremesha:
+      bl_aragorn: 1
+
+rw_mooriyathu:
+      bl_account_deactivation: 6
+
+feng_yang9:
+
+pyadagiri:
+      bl_icloud_livability: 44
+      al_apns_device_presence: 308
+
+i_kasaraneni:
+      cl_icloud_active_usage_monthly: 12
+      bl_ck_reminders_events: 13
+      bl_webclients_feedbackwsshow: 1
+      al_imapauth: 65
+      bl_psm_join_by_episode_title--select: 3
+      al_mailgateway_settings: 1
+      sl_escrow_hsa2: 110
+      bl_webmail_daily: 6
+      bl_public_site_monitorselect: 9
+      cl_icloud_active_usage_monthly_new_fm: 5
+      bl_psm_course_feedurl_parsing--refresh: 10
+      sl_gcbd_vw: 55
+      bl_device_registration: 1
+      sl_mme_account: 7
+      sl_mailgateway: 2
+      bl_public_site_monitor: 25
+      bl_psm_mapped_final: 66
+      bl_escrow_hsa2_events: 4
+      al_ck_notes_events: 1
+      bl_ck_contacts_events: 12
+      al_qs_its_billing_icld: 3
+      bl_psm_course_feedurl_parsing: 39
+      bl_psm_mapped_finalrefresh: 3
+      al_uploadimage_ws: 4
+      al_iscream_daily: 3
+      sl_gcbd: 2
+      bl_aragorn: 1
+      bl_public_site_monitor--select: 2
+      cl_icloud_active_usage_ever: 11
+      bl_ck_notes_events: 3
+      al_ck_reminders_events: 70
+      bl_psm_episode_join_tmp_step6: 7
+      al_kvs: 18
+      al_sentemail: 1
+      bl_psm_join_by_episode_title: 294
+      bl_dav_calendar_events: 1
+      al_calendar: 3
+      bl_psm_episode_join_tmp_step9: 6
+      bl_mailgateway_settings: 4
+      sl_accounts: 114
+      bl_psm_join_by_episode_titleselect: 3
+      sl_aragorn: 2
+      bl_psm_mapped_final--refresh: 3
+      bl_psm_episode_join_tmp_step7: 146
+      bl_psm_course_feedurl_parsingrefresh: 1
+      bl_webclients_feedbackws: 12
+
+yuguang:
+      bl_metrics_edge_cnx_timewhere: 89
+      bl_metrics_edge_cnx_timegroup: 1
+      bl_metrics_edge_cnx_time: 235
+
+jaskine:
+      sl_accounts: 12
+
+sarish:
+      sl_mme_assignment: 313
+      al_user_move: 143
+      sl_mme_datastore: 484
+      bl_mme_assignment: 1
+
+vsankapally:
+      al_ck_notes_media_events: 5
+      bl_ck_notes_media_events: 8
+      al_ck_notes_events: 13
+      al_ck_notes_attachment_events: 5
+      bl_ck_notes_attachment_events: 17
+      bl_ck_notes_events: 38
+
+dshirshendu:
+
+ranandakumar:
+      bl_mmcs_put_complete: 10
+
+jimmy_ngo:
+      bl_mmcs_get_completewhere: 14
+      bl_mmcs_put_completewhere: 4
+
+david_van:
+      sl_asm_org: 1
+      sl_dep_pcsreport: 2
+      sl_abm_org: 1
+
+kiran_inupakolla:
+      sl_fmip_reregister_monthly: 4
+      cl_icloud_active_usage_monthly: 17
+      sl_accounts.signup_country_code: 34
+      bl_qs_notfn_events: 35
+      sl_qs_ever_storagebuy_push_notifications_v2: 1
+      sl_accounts.date: 20
+      sl_accounts.country_code: 6
+      al_qs_storage_subscriber_movement_daily: 39
+      al_account_groomer_status: 1
+      cl_icloud_active_usage_monthly_new_fm: 2
+      al_doodlebug_tool: 9
+      bl_device_registration: 10
+      bl_user_delete: 3
+      sl_mme_account: 20
+      cl_icloud_active_usage_rolling30d: 1
+      sl_qs_current_user_quota_cube: 6
+      al_qs_storage_subscriber_movement_weekly: 2
+      al_qs_storage_subscriber_movement_monthly: 47
+      bl_doodlebug_tool: 2
+      sl_qs_active_storage_subscribers: 43
+      cl_doodlebug_tool: 9
+      sl_qs_current_app_size: 5
+      bl_qs_its_billing_icld: 33
+      bl_user_move: 3
+      bl_qs_notfn_eventswhere: 1
+      cl_account_groomer_status: 1
+      al_doodlebug.request_id: 9
+      sl_qs_current_user_quota: 1
+      bl_qs_figaro_storagebuy_actions: 1
+      cl_qs_ever_storage_subscriptions: 2
+      sl_qs_active_homekit_users: 6
+      sl_accounts: 60
+      bl_qs_success_events: 6
+      bl_support_app: 37
+      sl_qs_ever_storage_subscribers: 2
+      sl_device_registration: 1
+
+henrique_rodrigues:
+      bl_ck_drive_action: 1
+
+jaeman:
+      cl_account_groomer_status: 14
+      bl_account_groomer_status: 1
+
+achandrajena:
+
+javeed_shaikh:
+      bl_ck_codecache_cn: 3
+
+arindam_patra:
+      cl_stats_temp: 3
+      cl_icloud_active_usage_monthly_new_fm_10_12: 2
+      al_ck_topn_hrly: 1
+      bl_ck_data_repair_dly: 1
+      bl_cktelemetry_dly: 19
+      bl_ckg_rest_dly: 1
+      cl_icloud_active_usage_monthly_new_fm: 1
+      cl_ckg_broken_assets_dly: 19
+      al_ckg_broken_assets_dly: 9
+      cl_stats: 15
+      bl_ck_restore_eventsthis: 1
+      bl_ck_user_delete_backup: 1
+      bl_ck_data_repair_dly.sl: 1
+      cl_ckg_broken_assets_kpi: 29
+      al_intent_to_backup_lst_record: 2
+      bl_device_ecosystem: 10
+      bl_ckgroomer_all_dly: 1
+      sl_percent: 6
+      bl_ck_photos_smpl_parsed: 1
+      al_ck_topn_dly: 9
+      cl_cktelemetry_dly: 15
+      bl_intent_to_backupthis: 1
+      cl_gamecenter_player_id: 2
+      al_mmcs_fbc_photos_auth_put: 4
+      al_ck_sandbox_dly: 24
+
+sjagadeesh:
+      cl_qs_morocco_events: 3
+
+stallapragada:
+
+suraj_bhat:
+      bl_mmcs_authorize_put: 3
+      bl_mmcs_put_complete: 4
+
+mveeramosu:
+      sl_mme_assignment: 33
+      al_mmcs_move_complete: 3
+      bl_mmcs_put_complete: 1
+      bl_qs_error_events: 3
+      al_user_move: 2
+      cl_axm_org_domain: 7
+      bl_mmcs_accounts_gcbd: 3
+      sl_mme_datastore: 37
+      bl_icloud_livability: 25
+
+sourav_nayak:
+      bl_fmip_reregister: 3
+
+wanling_yih:
+      bl_gamecenter_settings_events: 5
+      bl_gamecenter_session_eventswhere: 1
+
+fan_h:
+      bl_mmcs_get_completewhere: 2
+
+mingrui_lyu:
+      bl_sms_volume_by_carrier: 26
+      al_sms_volume_by_carrier: 15
+
+pdelira:
+      bl_ck_gatekeeper_daily_rawwhere: 3
+      bl_qs_notfn_eventswhere: 9
+      bl_ck_codecache_cnwhere: 1
+      sl_device_registration: 6
+
+sahu_mihir:
+

@@ -1,0 +1,265 @@
+theodore_hong:
+      cl_icloud_active_usage_monthly: 77
+      al_mmcs_put_complete: 5
+      al_ck_backup_snapshot_records: 8
+      bl_ck_restore_events: 50
+      bl_ck_backup_events: 15
+
+s_shanbhagirvattu:
+      bl_webclients_feedbackws: 1
+
+henry_hughes:
+      bl_ck_coderouter_icpl_reason: 9
+      al_ck_icpl_delete: 1
+      bl_cmm: 4
+      bl_ck_coderouter_raw: 2
+      bl_ck_icpl_settings_events: 3
+      bl_ck_gatekeeper_daily_raw: 12
+
+robert_loh:
+      bl_ck_messages_in_cloud_daily_raw: 55
+
+javed_lalani:
+      bl_axm_cloud_md: 2
+
+alevanon:
+      bl_ck_reminders_events: 7
+
+himanshu_shahi:
+      al_mailgateway_receive: 1
+      al_mailgateway_attachment: 2
+      al_sent_mail_domain: 2
+      al_sentemail: 4
+      bl_smtp_daily: 12
+      al_mailgateway_migrated_emails: 8
+
+eugeneh:
+
+thuypark:
+
+bin_liu5:
+      bl_mmcs_put_complete: 8
+      bl_mmcs_get_completewhere: 1
+      bl_mmcs_get_complete: 7
+
+rohit_kandhari:
+      bl_aragorn: 29
+
+a_prusty:
+
+nergis_zaim:
+      cl_icloud_active_usage_monthlywhere: 20
+      al_adoption_forecast_mau: 6
+      cl_icloud_active_usage_monthly: 10
+      al_adoption_forecast_mauwhere: 54
+      bl_qs_notfn_eventswhere: 12
+      al_adoption_forecast_maugroup: 8
+
+auttamadoss:
+      bl_icpl_ctm_modify: 20
+
+micyoung:
+      sl_asm_org: 21
+      sl_dep_pcsreport: 42
+      sl_abm_org: 21
+
+jgiang:
+      bl_psm_course_feedurl_parsing: 34
+      bl_psm_join_by_episode: 11
+      bl_psm_join_by_episode_title: 169
+      bl_public_site_monitor: 51
+      bl_psm_episode_join_tmp_step7: 91
+      bl_psm_mapped_final: 11
+      bl_psm_adamid_join: 23
+      bl_psm_join_by_episode_titlewhere: 8
+      bl_psm_feedurl_join: 26
+
+kuang1:
+      sl_mme_account: 4
+
+pratikkumar_patel:
+      bl_mmcs_get_complete: 4
+
+xyuan999:
+      cl_axm_org_domain: 38
+      sl_asm_org: 31
+      bl_axm_other_actions: 30
+      sl_abm_org: 31
+      bl_axm_org_domain: 17
+
+brian_wipf:
+      bl_ck_drive_action: 7
+      cl_icloud_active_usage_monthlywhere: 12
+      bl_account_update_eventswhere: 68
+      cl_icloud_active_usage_monthly: 5
+      bl_device_registrationwhere: 1
+      sl_mme_accountlimit: 3
+      bl_ubq_document.ireporter_id: 15
+      sl_device_registrationwhere: 1
+      bl_device_registration: 1
+      sl_mme_assignment: 5
+      bl_ubq_document.date: 10
+      cl_icloud_active_usage_daily: 6
+      sl_mme_account: 115
+      bl_ubq_document: 330
+      sl_accounts: 7
+      bl_account_update_eventslimit: 1
+      sl_mme_accountwhere: 9
+      bl_ubq_documentwhere: 1
+      bl_account_update_events: 166
+      sl_device_registration: 11
+      bl_ubq_document.device_code: 5
+
+gillian_belton:
+
+ziyi_li2:
+      bl_qs_notfn_events: 27
+      bl_qs_success_events: 24
+
+mramadan:
+      cl_qs_ever_storage_subscriptions: 286
+      al_qs_storage_subscriber_movement_monthly--: 1
+      bl_qs_notfn_events: 788
+      bl_qs_success_events: 249
+      al_qs_storage_subscriber_movement_monthly: 70
+      sl_qs_current_user_quota: 37
+      sl_qs_active_storage_subscribers: 17
+      cl_qs_morocco_events: 397
+
+shan_lu2:
+      cl_icloud_active_usage_monthly: 29
+      bl_qs_notfn_events: 213
+      sl_accounts: 22
+      bl_qs_success_events: 43
+      sl_qs_current_user_quota: 84
+      sl_device_registration: 68
+      bl_device_registration: 2
+
+ruogu_du:
+      cl_account_groomer_status: 24
+      bl_account_groomer_status: 16
+      al_account_groomer_status: 9
+      al_mmcs_delete_complete: 3
+      bl_ck_db_operation_dly: 4
+
+nathan_l_williams:
+      al_user_move: 1
+      bl_user_movewhere: 25
+      bl_user_move: 4
+
+allen_oliver:
+      bl_gamecenter_all_othr_events: 162
+      bl_gamecenter_invite_events: 81
+      bl_gamecenter_challenge_events: 243
+      bl_gamecenter_achievements: 81
+      bl_gamecenter_turnbased_events: 81
+      bl_gamecenter_matchmaking: 405
+      bl_gamecenter_session_events: 318
+
+yuguang:
+      bl_metrics_edge_cnx_timewhere: 89
+      bl_metrics_edge_cnx_timegroup: 1
+      bl_metrics_edge_cnx_time: 235
+
+jaskine:
+      sl_accounts: 12
+
+asindhwani:
+      bl_ps_album_internal_events: 2
+      bl_ps_album_events: 6
+
+sarish:
+      sl_mme_assignment: 305
+      al_user_move: 141
+      sl_mme_datastore: 474
+      bl_mme_assignment: 1
+
+zhiqi_miao:
+      al_qs_storage_subscriber_movement_monthly: 2
+
+vsankapally:
+      al_ck_notes_media_events: 5
+      bl_ck_notes_media_events: 8
+      al_ck_notes_events: 13
+      al_ck_notes_attachment_events: 5
+      bl_ck_notes_attachment_events: 17
+      bl_ck_notes_events: 38
+
+jimmy_ngo:
+      bl_mmcs_get_completewhere: 14
+      bl_mmcs_put_completewhere: 4
+
+aklopocki:
+      bl_qs_notfn_events: 17
+      sl_accounts: 42
+      bl_qs_success_events: 14
+      bl_qs_successn_events: 2
+
+huan_he9:
+      al_ids_user_device_registration: 1
+      bl_device_registration: 4
+
+henrique_rodrigues:
+      bl_ck_drive_action: 1
+
+jaeman:
+      cl_account_groomer_status: 14
+      bl_account_groomer_status: 1
+
+npalekar:
+      al_ck_topn_dly: 18
+      al_ck_topn_dly--show: 1
+      al_ck_topn_dly--: 1
+
+amohapatra:
+      bl_axm_order_snapshot: 2
+      bl_axm_order_detail: 2
+
+javeed_shaikh:
+      bl_ck_codecache_cn: 3
+
+sjagadeesh:
+      cl_qs_morocco_events: 3
+
+stallapragada:
+
+suraj_bhat:
+      bl_mmcs_authorize_put: 3
+      bl_mmcs_put_complete: 4
+
+swami_jayaram:
+      sl_mme_account: 4
+      bl_fmip_locate: 2
+
+wanling_yih:
+      bl_gamecenter_settings_events: 5
+      bl_gamecenter_session_eventswhere: 1
+
+fan_h:
+      bl_mmcs_get_completewhere: 2
+
+mingrui_lyu:
+      bl_sms_volume_by_carrier: 26
+      al_sms_volume_by_carrier: 15
+
+anonymous:
+
+gdeyyam:
+      bl_ck_backup_apps: 26
+      bl_ck_coderouter_raw: 3
+      bl_ck_backup_events: 121
+      bl_ck_restore_events: 19
+      bl_ck_backup_smpl: 21
+
+chaitanya_jeerage:
+      sl_mme_account: 6
+      cl_icloud_active_usage_daily: 2
+      sl_mme_device_burn: 6
+      sl_qs_active_storage_subscribers: 2
+
+pdelira:
+      bl_ck_gatekeeper_daily_rawwhere: 3
+      bl_qs_notfn_eventswhere: 9
+      bl_ck_codecache_cnwhere: 1
+      sl_device_registration: 6
+
